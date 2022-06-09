@@ -1,0 +1,7 @@
+#yml
+----
+spring:
+  application:
+    name:test1
+    name2: test2
+  
